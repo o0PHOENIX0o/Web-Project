@@ -117,8 +117,9 @@ footer {
 }
 .introduction {
     width: 55%;
+    height: 80%
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
     align-items: center;
     background: rgba(255, 255, 255, 0.15);
     border-radius: 20px;
